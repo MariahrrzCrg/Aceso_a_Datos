@@ -1,9 +1,5 @@
 import java.io.*;
 
-
-
-
-
 public class Entrada {
 
 
